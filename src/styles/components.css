@@ -1075,7 +1075,7 @@
   flex-shrink: 0;
 }
 .contact-info-card h2 { font-size: 14.5px; margin-bottom: 3px; }
-.contact-info-card a { color: var(--navy); font-weight: 700; }
+.contact-info-card a { display: block; color: var(--navy); font-weight: 700; }
 .contact-info-card p { font-size: 13px; color: var(--muted); }
 .contact-placeholder { color: #A7B0BC !important; font-style: italic; }
 .contact-map-placeholder {

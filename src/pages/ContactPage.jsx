@@ -29,6 +29,7 @@ export default function ContactPage() {
               <div>
                 <h2>تلفن تماس</h2>
                 <a href={`tel:${SITE.phone}`} dir="ltr">{SITE.phoneDisplay}</a>
+                <a href={`tel:${SITE.landline}`} dir="ltr">{SITE.landlineDisplay}</a>
               </div>
             </div>
             <div className="contact-info-card">
@@ -43,7 +44,7 @@ export default function ContactPage() {
               <span className="contact-info-icon"><MapIcon size={22} /></span>
               <div>
                 <h2>نشانی فروشگاه</h2>
-                <p className="contact-placeholder">به‌زودی تکمیل می‌شود</p>
+                <p>{SITE.address}</p>
               </div>
             </div>
             <div className="contact-info-card">

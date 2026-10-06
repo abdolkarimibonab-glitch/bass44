@@ -5,6 +5,9 @@ export const SITE = {
   url: 'https://atryaelectronic.com',
   phone: '09126709618',
   phoneDisplay: '۰۹۱۲ ۶۷۰ ۹۶۱۸',
+  landline: '02166766022',
+  landlineDisplay: '۰۲۱-۶۶۷۶۶۰۲۲',
+  address: 'تهران، خیابان جمهوری، تقاطع سی‌تیر، پاساژ فرقانی، طبقه ۱، واحد ۴',
   hours: [
     { days: 'شنبه تا چهارشنبه', time: 'ساعت ۹ الی ۱۷' },
     { days: 'پنجشنبه', time: 'ساعت ۹ الی ۱۳' },

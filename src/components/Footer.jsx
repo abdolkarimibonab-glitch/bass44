@@ -60,8 +60,12 @@ export default function Footer() {
               <a href={`tel:${SITE.phone}`} dir="ltr">{SITE.phoneDisplay}</a>
             </li>
             <li>
+              <PhoneIcon size={16} />
+              <a href={`tel:${SITE.landline}`} dir="ltr">{SITE.landlineDisplay}</a>
+            </li>
+            <li>
               <MapIcon size={16} />
-              <span>نشانی فروشگاه: به‌زودی تکمیل می‌شود</span>
+              <span>نشانی فروشگاه: {SITE.address}</span>
             </li>
             <li>
               <SendIcon size={16} />

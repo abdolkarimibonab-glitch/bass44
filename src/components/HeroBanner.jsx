@@ -18,7 +18,7 @@ export default function HeroBanner() {
     <section className="hero" aria-label="معرفی محصولات منتخب">
       <div className="container hero-inner">
         <div className="hero-content">
-          <img className="hero-brand" src="/images/logo-white.svg" alt="" width="150" height="40" loading="eager" />
+          <img className="hero-brand" src="/images/atrya-logo-white.png" alt="" width="143" height="40" loading="eager" />
           <span className="hero-eyebrow">پاور سوئیچینگ صنعتی</span>
           <h1>خرید پاور 24 ولت صنعتی</h1>
           <p className="hero-sub">

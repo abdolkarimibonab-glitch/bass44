@@ -25,7 +25,7 @@ export default function Footer() {
     <footer className="site-footer">
       <div className="container footer-top">
         <div className="footer-brand">
-          <img src="/images/logo-white.svg" alt={SITE.nameEn} width="160" height="42" loading="lazy" />
+          <img src="/images/atrya-logo-white.png" alt={SITE.nameEn} width="151" height="42" loading="lazy" />
           <p>
             آتریا الکترونیک، فروشگاه تخصصی منابع تغذیه و تجهیزات الکترونیکی؛
             عرضه‌کننده پاور سوئیچینگ صنعتی، اسلیم، فن‌دار، ضد آب، آداپتور و

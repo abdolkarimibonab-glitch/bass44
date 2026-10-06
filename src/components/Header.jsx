@@ -33,7 +33,7 @@ export default function Header() {
     <header className={`site-header ${scrolled ? 'site-header-scrolled' : ''}`}>
       <div className="container header-inner">
         <Link to="/" className="header-logo" aria-label={`${SITE.name} — صفحه اصلی`}>
-          <img src="/images/logo.svg" alt={SITE.nameEn} width="176" height="46" />
+          <img src="/images/atrya-logo.png" alt={SITE.nameEn} width="158" height="44" />
         </Link>
 
         <nav className="header-nav" aria-label="منوی اصلی">

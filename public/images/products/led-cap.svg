@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300" role="img" aria-label="لامپ LED کلاهی">
+  <g>
+    <rect x="148" y="60" width="104" height="104" rx="52" fill="#F2D06B"/>
+    <rect x="156" y="68" width="88" height="88" rx="44" fill="#F7E3A1"/>
+    <rect x="176" y="84" width="48" height="56" rx="24" fill="#FDF6DC"/>
+    <!-- cap threads -->
+    <g fill="#B9C0CB">
+      <rect x="170" y="164" width="60" height="9" rx="4.5"/>
+      <rect x="170" y="177" width="60" height="9" rx="4.5"/>
+      <rect x="170" y="190" width="60" height="9" rx="4.5"/>
+      <rect x="170" y="203" width="60" height="9" rx="4.5"/>
+    </g>
+    <path d="M188 212 h24 l-4 14 h-16 Z" fill="#8d95a3"/>
+  </g>
+</svg>

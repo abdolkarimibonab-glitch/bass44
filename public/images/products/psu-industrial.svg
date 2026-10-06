@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300" role="img" aria-label="پاور صنعتی سوئیچینگ">
+  <g>
+    <!-- mounting flanges -->
+    <rect x="46" y="96" width="26" height="108" rx="4" fill="#AEB6C2"/>
+    <rect x="328" y="96" width="26" height="108" rx="4" fill="#AEB6C2"/>
+    <circle cx="59" cy="150" r="7" fill="#8d95a3"/>
+    <circle cx="341" cy="150" r="7" fill="#8d95a3"/>
+    <!-- main body -->
+    <rect x="70" y="60" width="260" height="180" rx="10" fill="#CBD2DC"/>
+    <rect x="70" y="60" width="260" height="46" rx="10" fill="#031731"/>
+    <rect x="70" y="96" width="260" height="12" fill="#031731"/>
+    <!-- vents -->
+    <g fill="#9AA3B1">
+      <rect x="92" y="120" width="150" height="6" rx="3"/>
+      <rect x="92" y="136" width="150" height="6" rx="3"/>
+      <rect x="92" y="152" width="150" height="6" rx="3"/>
+      <rect x="92" y="168" width="150" height="6" rx="3"/>
+      <rect x="92" y="184" width="150" height="6" rx="3"/>
+      <rect x="92" y="200" width="150" height="6" rx="3"/>
+    </g>
+    <!-- label plate -->
+    <rect x="256" y="118" width="58" height="86" rx="4" fill="#F5F7FA" stroke="#C6CDD6"/>
+    <rect x="264" y="130" width="42" height="5" rx="2.5" fill="#C9CFDA"/>
+    <rect x="264" y="142" width="30" height="5" rx="2.5" fill="#DDE2EA"/>
+    <rect x="264" y="154" width="42" height="5" rx="2.5" fill="#DDE2EA"/>
+    <rect x="264" y="166" width="24" height="5" rx="2.5" fill="#DDE2EA"/>
+    <!-- terminal block -->
+    <rect x="92" y="222" width="216" height="18" rx="3" fill="#2E3744"/>
+    <g fill="#F7B500">
+      <circle cx="112" cy="231" r="5"/>
+      <circle cx="136" cy="231" r="5"/>
+      <circle cx="160" cy="231" r="5"/>
+      <circle cx="240" cy="231" r="5"/>
+      <circle cx="264" cy="231" r="5"/>
+      <circle cx="288" cy="231" r="5"/>
+    </g>
+    <circle cx="290" cy="86" r="5" fill="#F7B500"/>
+  </g>
+</svg>

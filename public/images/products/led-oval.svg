@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300" role="img" aria-label="چراغ LED اوال">
+  <g>
+    <!-- oval lens -->
+    <ellipse cx="200" cy="150" rx="110" ry="62" fill="#2b3644"/>
+    <ellipse cx="200" cy="150" rx="94" ry="48" fill="#F5F7FA"/>
+    <ellipse cx="200" cy="150" rx="70" ry="34" fill="#FFD75E"/>
+    <ellipse cx="200" cy="150" rx="34" ry="16" fill="#FFF3C4"/>
+    <!-- mounting wing -->
+    <rect x="86" y="144" width="18" height="12" rx="3" fill="#39424F"/>
+    <rect x="296" y="144" width="18" height="12" rx="3" fill="#39424F"/>
+  </g>
+</svg>

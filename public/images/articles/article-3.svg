@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="270" viewBox="0 0 480 270" role="img" aria-label="انتخاب آمپر مناسب پاور">
+  <rect width="480" height="270" fill="#07203f"/>
+  <g transform="translate(120 60)">
+    <rect x="0" y="0" width="240" height="150" rx="12" fill="#0a2a52" stroke="#2b4a76"/>
+    <!-- amp meter dial -->
+    <circle cx="120" cy="62" r="44" fill="#F5F7FA"/>
+    <path d="M120 62 L96 40" stroke="#031731" stroke-width="4" stroke-linecap="round"/>
+    <path d="M120 62 L138 36" stroke="#F7B500" stroke-width="3"/>
+    <g fill="#8d95a3">
+      <circle cx="120" cy="24" r="2.5"/>
+      <circle cx="88" cy="34" r="2.5"/>
+      <circle cx="152" cy="34" r="2.5"/>
+      <circle cx="80" cy="62" r="2.5"/>
+      <circle cx="160" cy="62" r="2.5"/>
+    </g>
+    <text x="120" y="132" font-family="Arial, sans-serif" font-size="20" font-weight="800" fill="#F7B500" text-anchor="middle">A</text>
+  </g>
+</svg>

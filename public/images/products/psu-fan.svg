@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300" role="img" aria-label="پاور صنعتی فن‌دار">
+  <g>
+    <rect x="80" y="70" width="240" height="165" rx="10" fill="#CBD2DC"/>
+    <rect x="80" y="70" width="240" height="44" rx="10" fill="#031731"/>
+    <rect x="80" y="102" width="240" height="12" fill="#031731"/>
+    <!-- fan -->
+    <circle cx="150" cy="185" r="42" fill="#39424F"/>
+    <circle cx="150" cy="185" r="36" fill="#1d2836"/>
+    <g fill="#8d95a3">
+      <path d="M150 185 m0 -30 a30 30 0 0 1 22 12 l-20 14 Z"/>
+      <path d="M150 185 m21 18 a30 30 0 0 1 -24 12 l-2 -24 Z"/>
+      <path d="M150 185 m-28 -6 a30 30 0 0 1 4 -24 l22 10 Z"/>
+      <path d="M150 185 m7 29 a30 30 0 0 1 -22 -12 l20 -14 Z"/>
+      <path d="M150 185 m-21 -18 a30 30 0 0 1 24 -12 l2 24 Z"/>
+      <path d="M150 185 m28 6 a30 30 0 0 1 -4 24 l-22 -10 Z"/>
+    </g>
+    <circle cx="150" cy="185" r="8" fill="#F7B500"/>
+    <!-- label plate -->
+    <rect x="216" y="140" width="72" height="76" rx="4" fill="#F5F7FA" stroke="#C6CDD6"/>
+    <rect x="226" y="152" width="52" height="6" rx="3" fill="#C9CFDA"/>
+    <rect x="226" y="166" width="38" height="6" rx="3" fill="#DDE2EA"/>
+    <rect x="226" y="180" width="52" height="6" rx="3" fill="#DDE2EA"/>
+    <rect x="226" y="194" width="30" height="6" rx="3" fill="#DDE2EA"/>
+    <!-- terminal block -->
+    <rect x="100" y="244" width="200" height="0" fill="none"/>
+    <rect x="100" y="222" width="200" height="0" fill="none"/>
+    <rect x="100" y="236" width="200" height="14" rx="3" fill="#2E3744"/>
+    <g fill="#F7B500">
+      <circle cx="120" cy="243" r="4.5"/>
+      <circle cx="144" cy="243" r="4.5"/>
+      <circle cx="220" cy="243" r="4.5"/>
+      <circle cx="244" cy="243" r="4.5"/>
+      <circle cx="268" cy="243" r="4.5"/>
+    </g>
+    <circle cx="292" cy="92" r="5" fill="#F7B500"/>
+  </g>
+</svg>

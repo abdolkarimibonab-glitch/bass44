@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="270" viewBox="0 0 480 270" role="img" aria-label="راهنمای خرید پاور صنعتی">
+  <rect width="480" height="270" fill="#07203f"/>
+  <g stroke="#F7B500" stroke-width="1.5" fill="none" opacity="0.5">
+    <path d="M30 220 h90 v-40 h70"/>
+    <path d="M450 60 h-80 v50 h-60"/>
+    <circle cx="30" cy="220" r="4" fill="#F7B500"/>
+    <circle cx="450" cy="60" r="4" fill="#F7B500"/>
+  </g>
+  <g transform="translate(160 62)">
+    <rect x="0" y="0" width="160" height="120" rx="10" fill="#CBD2DC"/>
+    <rect x="0" y="0" width="160" height="34" rx="10" fill="#031731"/>
+    <g fill="#9AA3B1">
+      <rect x="16" y="48" width="80" height="6" rx="3"/>
+      <rect x="16" y="62" width="80" height="6" rx="3"/>
+      <rect x="16" y="76" width="80" height="6" rx="3"/>
+    </g>
+    <rect x="106" y="46" width="42" height="44" rx="4" fill="#F5F7FA"/>
+    <rect x="16" y="100" width="128" height="10" rx="3" fill="#2E3744"/>
+    <circle cx="34" cy="105" r="3.5" fill="#F7B500"/>
+    <circle cx="56" cy="105" r="3.5" fill="#F7B500"/>
+    <circle cx="126" cy="105" r="3.5" fill="#F7B500"/>
+  </g>
+  <text x="240" y="228" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="#F7B500" text-anchor="middle">POWER SUPPLY GUIDE</text>
+</svg>

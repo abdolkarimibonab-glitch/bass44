@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="270" viewBox="0 0 480 270" role="img" aria-label="تفاوت پاور 12 و 24 ولت">
+  <rect width="480" height="270" fill="#07203f"/>
+  <g stroke="#F7B500" stroke-width="1.5" fill="none" opacity="0.4">
+    <path d="M60 40 v190 M420 40 v190" stroke-dasharray="6 8"/>
+  </g>
+  <g transform="translate(60 90)">
+    <rect x="0" y="0" width="150" height="72" rx="8" fill="#CBD2DC"/>
+    <rect x="0" y="0" width="150" height="24" rx="8" fill="#031731"/>
+    <g fill="#9AA3B1">
+      <rect x="14" y="36" width="90" height="5" rx="2.5"/>
+      <rect x="14" y="48" width="90" height="5" rx="2.5"/>
+    </g>
+    <text x="75" y="120" font-family="Arial, sans-serif" font-size="26" font-weight="800" fill="#FFFFFF" text-anchor="middle">12V</text>
+  </g>
+  <g transform="translate(270 90)">
+    <rect x="0" y="0" width="150" height="72" rx="8" fill="#CBD2DC"/>
+    <rect x="0" y="0" width="150" height="24" rx="8" fill="#031731"/>
+    <g fill="#9AA3B1">
+      <rect x="14" y="36" width="90" height="5" rx="2.5"/>
+      <rect x="14" y="48" width="90" height="5" rx="2.5"/>
+    </g>
+    <text x="75" y="120" font-family="Arial, sans-serif" font-size="26" font-weight="800" fill="#F7B500" text-anchor="middle">24V</text>
+  </g>
+  <circle cx="240" cy="126" r="26" fill="none" stroke="#F7B500" stroke-width="2"/>
+  <text x="240" y="134" font-family="Arial, sans-serif" font-size="22" font-weight="800" fill="#F7B500" text-anchor="middle">?</text>
+</svg>

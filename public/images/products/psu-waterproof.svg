@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300" role="img" aria-label="پاور ضد آب">
+  <g>
+    <!-- capsule body -->
+    <rect x="90" y="100" width="220" height="110" rx="40" fill="#7E8896"/>
+    <rect x="90" y="100" width="220" height="110" rx="40" fill="none" stroke="#5c6674" stroke-width="4"/>
+    <rect x="110" y="112" width="180" height="86" rx="30" fill="#96A0AE"/>
+    <!-- gold ring -->
+    <rect x="296" y="128" width="26" height="54" rx="6" fill="#F7B500"/>
+    <circle cx="309" cy="155" r="6" fill="#B8860B"/>
+    <!-- cable gland -->
+    <rect x="62" y="142" width="32" height="26" rx="6" fill="#39424F"/>
+    <path d="M40 155 q-14 0 -22 10" stroke="#39424F" stroke-width="7" fill="none" stroke-linecap="round"/>
+    <!-- label -->
+    <rect x="140" y="128" width="120" height="54" rx="5" fill="#F5F7FA" stroke="#C6CDD6"/>
+    <rect x="152" y="140" width="70" height="6" rx="3" fill="#C9CFDA"/>
+    <rect x="152" y="154" width="96" height="6" rx="3" fill="#DDE2EA"/>
+    <rect x="152" y="168" width="52" height="6" rx="3" fill="#DDE2EA"/>
+    <!-- screws -->
+    <g fill="#5c6674">
+      <circle cx="118" cy="122" r="4"/>
+      <circle cx="282" cy="122" r="4"/>
+      <circle cx="118" cy="188" r="4"/>
+      <circle cx="282" cy="188" r="4"/>
+    </g>
+  </g>
+</svg>
